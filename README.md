@@ -1,6 +1,6 @@
 <!-- Original profile design for Avanish Gajula -->
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Animated Avanish Gajula data and analytics banner" />
+  <img src="hero.svg" width="100%" alt="Animated Avanish Gajula data and analytics banner" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I enjoy taking a question from raw data to a useful answer: cleaning messy datas
 ## ✨ Skills in motion
 
 <p align="center">
-  <img src="assets/skills-motion.svg" width="100%" alt="Animated skills map featuring Python SQL Pandas NumPy Matplotlib Power BI and Tableau" />
+  <img src="skills-motion.svg" width="100%" alt="Animated skills map featuring Python SQL Pandas NumPy Matplotlib Power BI and Tableau" />
 </p>
 
 <p align="center">
