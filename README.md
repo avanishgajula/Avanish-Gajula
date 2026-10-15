@@ -6,7 +6,7 @@
 
 **Exploring data · building meaningful projects · learning by doing**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=38BDF8)](https://avanishgajula.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=38BDF8)](https://avanish-gajula-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avanishgajula)
 
 </div>
@@ -60,6 +60,6 @@
 <div align="center">
 
 **Thanks for stopping by!** 🌟  
-[Explore my repositories](https://github.com/avanishgajula?tab=repositories) · [Visit my portfolio](https://avanishgajula.github.io)
+[Explore my repositories](https://github.com/avanishgajula?tab=repositories) · [Visit my portfolio](https://avanish-gajula-portfolio.vercel.app/)
 
 </div>
